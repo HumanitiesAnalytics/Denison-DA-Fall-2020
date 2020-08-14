@@ -6,20 +6,17 @@ To complete each lab assignment (individual or team) you will need a Github acco
 
 1. Click on on the Github Classroom Link for This Week's Lab
 2. If prompted to sign into Github, do so
-
 ---
 ![github-screenshot-1](images/github-1.png)
 ---
 
 3. If asked to `Authorize GitHub Classroom`, click to authorize
-
 ---
 ![github-screenshot-2](images/github-2.png)
 ---
 
 4. Click the green button that says `Accept this assignment`
 5. You will see a screen that says `You're ready to go!` On this page is a repo link and a due date (this repo is actually a fork of a Github template)
-
 ---
 ![github-screenshot-3](images/github-3.png)
 ---
@@ -27,13 +24,11 @@ To complete each lab assignment (individual or team) you will need a Github acco
 6. Visiting the repo link will bring you to a private Github repository at `https://github.com/humanitiesanalytics/[name of lab]-[your Github username]` (This will differ slightly for a team assignment.)
 6. In this repo, you will see files and folders as described above
 7. Just below the menu with  `<> Code` and `Issues`, you'll see an expandable icon that says `master`. If you click it, it will say `Switch branches/tags`. Below that, in the field that says `find or create a branch`, type the word student and press enter. This will create a new branch called `student`, and you should now see a notification that says `3 branches` instead of `2 branches`
-
 ---
 ![github-screenshot-4](images/github-4.png)
 ---
 
 8. Click on the text that says `3 branches` or go to `[your Repo address]/branches` and select `change default branch`. Select the `student` branch as the default so that future edits are committed to that branch.
-
 ---
 ![github-screenshot-5](images/github-5.png)
 
@@ -42,7 +37,6 @@ To complete each lab assignment (individual or team) you will need a Github acco
 
 9. You and your teammates can now add and edit files. Each time you make a change, you will asked to commit changes and leave an optional commit message. These messages can be as simple as "initial commit," but you can also use them to keep track of which changes you are making.
 10. When you are done with the assignment, click on the menu link for `Pull Requests` and click the green link that says `make a new pull request`. Choose `master` as the base branch and `student` as the comparison branch. In your commit message, write something like "finished" or "lab 1 completed". Making this pull request will generate an email that lets me know you're ready for feedback. 
-
 ---
 ![github-screenshot-7](images/github-7.png)
 
