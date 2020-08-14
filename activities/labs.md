@@ -7,7 +7,9 @@ To complete each lab assignment (individual or team) you will need a Github acco
 1. Click on on the Github Classroom Link for This Week's Lab
 2. If prompted to sign into Github, do so
 
+<kbd>
 ![github-screenshot-1](images/github-1.png)
+  </kbd>
 
 3. If asked to `Authorize GitHub Classroom`, click to authorize
 
