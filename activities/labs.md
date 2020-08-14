@@ -7,6 +7,9 @@ To complete each lab assignment (individual or team) you will need a Github acco
 1. Click on on the Github Classroom Link for This Week's Lab
 2. If prompted to sign into Github, do so
 3. If asked to `Authorize GitHub Classroom`, click to authorize
+
+![github-screenshot-1](images/github-1.png)
+
 4. Click the green botton that says `Accept this assignment`
 5. You will see a screen that says `You're ready to go!` On this page is a repo link and a due date (this repo is actually a fork of a Github template)
 6. Visiting the repo link will bring you to a private Github repository at `https://github.com/humanitiesanalytics/[name of lab]-[your Github username]` (This will differ slightly for a team assignment.)
