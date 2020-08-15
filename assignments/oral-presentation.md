@@ -13,7 +13,7 @@ Each of you will be responsible for giving a PechaKucha presentation this semest
 
 ## What to Turn In
 
-Save a copy of your slides to your Google Drive folder and verify that the folder is shared it with me. Google Slides, PowerPoint, or PDF formats are acceptable. Include your notes for each slide, either in the slide notes section or in a separate document.
+Before the day you are giving your presentation, save a copy of your slides to your Google Drive folder and verify that the folder is shared it with me. Google Slides, PowerPoint, or PDF formats are acceptable. Include your notes for each slide, either in the slide notes section or in a separate document.
 
 ## Grading
 
