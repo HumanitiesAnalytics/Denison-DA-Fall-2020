@@ -4,7 +4,7 @@ The purpose of the Data and Code Ledger is to take notes and examples in your ow
 
 You will be graded three times throughout the semester on your progress, but I encourage you to view this assignment as a living tool for your own learning and reference throughout the course. 
 
-1. To get started, check out the Data and Code Ledger Template from Github Classroom. 
+1. To get started, check out the Data and Code Ledger Template from Github Classroom. Direct link: https://classroom.github.com/a/yA9nlKxb
 
 2. Once you have created a fork of the Data and Code Ledger Template repository, make a new branch called 'student' and set it to the default branch (as we do with labs). 
 
