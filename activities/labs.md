@@ -53,5 +53,5 @@ If you have used Github before, you will be able to clone the repository to your
 |---------------------------------|-------------------------------------------|
 |Lab 0: Installations             |  https://classroom.github.com/a/t5-Ymjpr  |
 |Lab 1: Invasive Species Part 1   |  [https://classroom.github.com/a/yzDtOjA_](https://classroom.github.com/a/yzDtOjA_)  |
-|Lab 2: Collecting and Coding Data | TBA  |
+|Lab 2: Collecting and Coding Data | [https://classroom.github.com/a/nYcV-MOo](https://classroom.github.com/a/nYcV-MOo)  |
 |Lab 3: Invasive Species Part 2   |  TBA  |
