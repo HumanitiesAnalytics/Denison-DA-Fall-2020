@@ -9,4 +9,4 @@
 ## 3. In what ways did Bill James believe baseball analysts had failed to update their knowledge for contemporary baseball? What traditional understanding did he believe was out of date?
 
 
-## 4. How does the example of statistical analysis in baseball genderalize to other areas? What can this example teach us about the perils or challenges of quantitative analysis in general? 
+## 4. How does the example of statistical analysis in baseball generalize to other areas? What can this example teach us about the perils or challenges of quantitative analysis in general? 
