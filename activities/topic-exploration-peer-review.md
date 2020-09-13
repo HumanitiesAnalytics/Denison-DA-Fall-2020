@@ -1,4 +1,6 @@
-Create a Google Drive document in your DA 101 folder name it 'Topic exploration peer review'. Use this document for all responses to the questions below. 
+# Instructions for Peer Review of Topic Exploration Assignment
+
+Share your Topic Exploration Assignment document with your partner if you haven't done so already. Read your partner's Topic Exploration Assignment in full before beginning your responses. Then, create a Google Drive document in your DA 101 folder name it 'Topic exploration peer review'. Use this document for all responses to the questions below. 
 
 1. Without your partner’s help, identify what you think is the primary research question. Copy/paste your partner's research question into your Google Drive response document.
 
