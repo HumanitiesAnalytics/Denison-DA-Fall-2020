@@ -55,3 +55,4 @@ If you have used Github before, you will be able to clone the repository to your
 |Lab 1: Invasive Species Part 1   |  [https://classroom.github.com/a/yzDtOjA_](https://classroom.github.com/a/yzDtOjA_)  |
 |Lab 2: Collecting and Coding Data | [https://classroom.github.com/a/nYcV-MOo](https://classroom.github.com/a/nYcV-MOo)  |
 |Lab 3: Invasive Species Part 2   |  __Note__: Do not check out the Lab 3 assignment without first looking on Notebowl to see who your teammates are. If you are the first of your team to check out the assignment, it will create a new repo for your team. Otherwise, you will have to select the existing repo that a teammate has already created. [https://classroom.github.com/g/gaKfTXdW](https://classroom.github.com/g/gaKfTXdW)  |
+|Lab 5: Congressional Representation pt 1 | [https://classroom.github.com/g/c8sFAFfh](https://classroom.github.com/g/c8sFAFfh)|
