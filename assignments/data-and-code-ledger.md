@@ -33,5 +33,6 @@ You will be graded three times throughout the semester on your progress, but I e
 | Submission 	|	Due Date 	|	Required Questions |
 |---|---|---|
 | First Submission|	Thursday, September 10 | Questions 1-5, 10-14, and 18-22 |
-| Second Submission| Thursday, October 8	|	Questions 1-6, 10-16, 18-25, and 27-28. You may make revisions to prior answers or examples, if useful. This means the only new questions to answer are 6, 15-16, and 23-25, 27-28.|
-| Third Submission|	Thursday, October 29	| Complete code glossary. Provide complete polished answers to all 30 Questions. You may make revisions to prior answers or examples, if useful. This means the only new questions to answer are 7, 17, and 29-30. You do not need to complete questions 8, 9, or 26. You are welcome to try if you would like. | 
+| Second Submission| Thursday, October 8	|	~~Questions 1-6, 10-16, 18-25, and 27-28. You may make revisions to prior answers or examples, if useful. This means the only new questions to answer are 6, 15-16, and 23-25, 27-28.~~ All previous questions + questions 6, 15, 16, and 28|
+| Third Submission|	Thursday, October 29	| ~~Complete code glossary. Provide complete polished answers to all 30 Questions. You may make revisions to prior answers or examples, if useful. This means the only new questions to answer are 7, 17, and 29-30. You do not need to complete questions 8, 9, or 26. You are welcome to try if you would like.~~ All previous questions + 7, 23, 24, 25, 27; extra credit for completing up to two of the following: 8, 9, 17, 26, 29, 30 | 
+
