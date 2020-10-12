@@ -79,7 +79,7 @@ For your annotated bibliography, follow the format of listing a source citation 
 
 __Note__: At this stage, I also expect you to have a tentative project title. Your title should be original and specific to your focus.
 
-Part III: Visualization Component (25% of assignment grade)
+## Part III: Visualization Component (25% of assignment grade)
 
 In this assignment component, you will turn in five data visualizations with titles and descriptive captions. The visualizations must be based on your data set, but you are welcome to use other data sets as a basis for any comparative visualizations. For this assignment component, you should attempt to build on or complicate discussion of variables in the data set from the prior assignment. 
 
