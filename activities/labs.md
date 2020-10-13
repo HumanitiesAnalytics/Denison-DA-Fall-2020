@@ -58,3 +58,4 @@ If you have used Github before, you will be able to clone the repository to your
 |Lab 5: Congressional Representation pt 1 | [https://classroom.github.com/g/c8sFAFfh](https://classroom.github.com/g/c8sFAFfh)|
 |Lab 6: Congressional Representation pt 2 | [https://classroom.github.com/g/uPf4BD0i](https://classroom.github.com/g/uPf4BD0i)|
 |Lab 7: Human Health and Drug Use Data | [https://classroom.github.com/g/182aluo-](https://classroom.github.com/g/182aluo-)|
+|Lab 9: airbnb | [https://classroom.github.com/g/iGDawjWa](https://classroom.github.com/g/iGDawjWa)|
