@@ -2,7 +2,7 @@
 
 Instructions for researchers needing a human-subjects research course certification on ethical principles and practices (CITI Program SBE Modules; a.k.a. “IRB Course,” as of Oct 21, 2018).
 
-1. In your Internet browser, navigate to [citiprogram.org](citiprogram.org), and then Click the Log-In button in the upper right.
+1. In your Internet browser, navigate to [http://citiprogram.org](http://citiprogram.org), and then Click the Log-In button in the upper right.
 2. Choose 'REGISTER.' Do __NOT__ choose 'log in through my institution'
 3. Under 'Select your Organization Affiliation', type into the box 'Deni ...' until Denison University comes up as an option from the resulting list, then choose it.
 4. Check the Agree box.
