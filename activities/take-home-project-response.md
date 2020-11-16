@@ -1,0 +1,3 @@
+# Week 14 Take-Home Assignment: Response to Final Project Peer Review
+
+For the final take-home assignment of the semester, you should write a 300-400 word response (one long paragraph or two shorter paragraphs) addressing and responding to the comments that your partner gave you during the peer review process. Are there comments that you disagree with? If so, are there revisions you could make to better clarify your final work? What changes do you anticipate making to the final version of this project? How difficult will these revisions be? What steps will you need to take to complete them in the allotted time? Submit your responses via Google Drive. 
